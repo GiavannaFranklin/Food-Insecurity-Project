@@ -1,6 +1,6 @@
 # Food Insecurity in Kansas City, MO
 ## Links to Code
-Data tranformation and some initial analysis: [https://github.com/GiavannaFranklin/Food-Insecurity ](https://github.com/GiavannaFranklin/Food-Insecurity-Project/blob/main/Food_Insecurity_Project.ipynb)
+Data tranformation and some initial analysis: https://github.com/GiavannaFranklin/Food-Insecurity-Project/blob/main/Food_Insecurity_Project.ipynb
 
 Additional analysis: https://github.com/GiavannaFranklin/Food-Insecurity-Project/blob/main/Food_Insecurity_Project.sql
 
