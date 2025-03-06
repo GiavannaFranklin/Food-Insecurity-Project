@@ -61,7 +61,7 @@ Furthermore, a map on the prevalence of households with food stamps/SNAP by cens
 <img width="150" alt="Legend-Households with Food Stamps/SNAP Prevalence" src="https://github.com/user-attachments/assets/5d96e190-db3b-4423-b397-28a86d62d339" />
 
 
-### Average Prevalence of Food Insecurity Factors Across By County
+### Average Prevalence of Food Insecurity Factors By County
 Additionally, Figure 5 illustrates the average prevalence of food insecurity metrics by county. The rankings for the average rate of households with no vehicle and families under 200% of the federal poverty line are identical: Jackson County ranks highest, followed by Clay, Platte, and Cass. For households receiving food stamps/SNAP, the ranking shifts slightly to Jackson, Clay, Cass, and Platte. The average obesity prevalence follows yet another pattern: Jackson, Platte, Clay, and Cass.
 
 Across the factors, Cass, Clay, and Platte counties show minimal variation, while Jackson County consistently ranks highest and differs significantly from the others, except in obesity prevalence, where variation among counties is not as high. These patterns highlight the associations among these factors.
