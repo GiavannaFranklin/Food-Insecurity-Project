@@ -2,8 +2,8 @@
 ## Links to Code
 Data tranformation and some initial analysis (Python): 
 <ul>
-  <li>https://github.com/GiavannaFranklin/Food-Insecurity-Project/blob/main/Food_Insecurity_Project.ipynb (CSV version for reproducibility)</li>
-  <li>https://github.com/GiavannaFranklin/Food-Insecurity-Project/blob/main/Food_Insecurity_Project_with_APIs.ipynb (API version to access more up to date data)</li>
+  <li>https://github.com/GiavannaFranklin/Food-Insecurity-Project/blob/main/Food_Insecurity_Project.ipynb (CSV version)</li>
+  <li>https://github.com/GiavannaFranklin/Food-Insecurity-Project/blob/main/Food_Insecurity_Project_with_APIs.ipynb (API version)</li>
 </ul>
 
 Additional analysis (SQL):
