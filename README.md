@@ -1,8 +1,15 @@
 # Food Insecurity in Kansas City, MO
 ## Links to Code
-Data tranformation and some initial analysis: https://github.com/GiavannaFranklin/Food-Insecurity-Project/blob/main/Food_Insecurity_Project.ipynb
+Data tranformation and some initial analysis (Python): 
+<ul>
+  <li>https://github.com/GiavannaFranklin/Food-Insecurity-Project/blob/main/Food_Insecurity_Project.ipynb (CSV version for reproducibility)</li>
+  <li>https://github.com/GiavannaFranklin/Food-Insecurity-Project/blob/main/Food_Insecurity_Project_with_APIs.ipynb (API version to access more up to date data)</li>
+</ul>
 
-Additional analysis: https://github.com/GiavannaFranklin/Food-Insecurity-Project/blob/main/Food_Insecurity_Project.sql
+Additional analysis (SQL):
+<ul>
+  <li>https://github.com/GiavannaFranklin/Food-Insecurity-Project/blob/main/Food_Insecurity_Project.sql</li>
+</ul>
 
 ## Introduction/Problem Statement
 Many in the U.S. suffer from food insecurity. In 2023, around 13.5% of U.S. households were food insecure.[1] It is estimated 13% of residents in Missouri are food insecure.[2] For counties in Kansas City, it was estimated to be 19% in Jackson County and 13% in Clay County in 2014.[3] Food insecurity is defined by the USDA as “a lack of consistent access to enough food for every person in a household to live an active, healthy life.”[4] Food insecurity is multi-faceted, where it is not only about not affording enough food, but also healthy food.[5] It also involves not being able to access stores with healthy food. Being food insecure can have negative health effects, such as increasing the likelihood for obesity, heart disease, and diabetes.[6]
